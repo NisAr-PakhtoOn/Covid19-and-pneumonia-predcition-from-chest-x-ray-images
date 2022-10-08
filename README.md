@@ -1,0 +1,1 @@
+# Covid19-and-pneumonia-predcition-from-chest-x-ray-images
